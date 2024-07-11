@@ -26,7 +26,7 @@ Requirements:
 
 Clone this repository:
 
-git clone https://https://github.com/mayurdhoble/hugging_face_transformers.git
+git clone https://https://github.com/mayurdhoble/hugging_face_transformers
 
 Pipeline-Specific Instructions
 
